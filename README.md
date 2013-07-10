@@ -1,1 +1,1 @@
-# This is for the Chicago Python Users Group aka. [Chipy](www.chipy.org)
+# This is for the Chicago Python Users Group aka. [Chipy](http://www.chipy.org)
